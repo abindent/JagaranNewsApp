@@ -30,4 +30,5 @@ JagaranNews provides you daily news bites in your laptop. It is made by React.
 
 ## FAQs
 ***1) How to use this in production?***
-***ANS:*** At first use `npm i --force` to download all the dependencies. Then upgrade your newsapi account and get the key. The outside the src folder create `.env.local` folder and write `REACT_APP_NEWS_API = "Your API Key here"`
+
+  ***ANS:*** At first use `npm i --force` to download all the dependencies. Then upgrade your newsapi account and get the key. The outside the src folder create `.env.local` folder and write `REACT_APP_NEWS_API = "Your API Key here"`
